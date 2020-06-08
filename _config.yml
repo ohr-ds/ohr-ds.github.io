@@ -20,7 +20,7 @@ title                    : "Edward's Data Science Note"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Heungrok Oh"
-description              : ""
+description              : "차근차근 정리해가는 데이터 과학 노트"
 url                      : "https://ohr-ds.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
