@@ -3,12 +3,12 @@ title: "About"
 permalink: /about/
 layout: single
 author_profile: true
-classes: wide
+classes: narrow
 ---
-
+<img src="/assets/images/profile.jpg" width="150" style="float:right; margin-left:20px; border-radius:10px;" />
 ### 오흥록 (Heungrok Oh)
-데이터 사이언티스트 | 통신사 | 인공지능 대학원 재학 중  
-[이메일] | [GitHub](https://github.com/ohr-ds)
+Data Scientist(Since 2017)  
+[Email](heungrokoh@gmail.com) | [GitHub](https://github.com/ohr-ds)
 
 ---
 
