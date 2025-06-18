@@ -1,6 +1,8 @@
 # main links
 main:
   - title: "블로그 방문하기"
-  url: https://ohr-ds.github.io/
+    url: https://ohr-ds.github.io/
   - title: "About"
-  url: /about/
+    url: /about/
+  - title: "CV"
+    url: /cv/
