@@ -6,8 +6,6 @@ author_profile: true
 classes: wide
 ---
 
-<div style="font-size: 14px; line-height: 1.6;">
-
 ### 오흥록 (Heungrok Oh)
 데이터 사이언티스트 | 통신사 | 인공지능 대학원 재학 중  
 [이메일] | [GitHub](https://github.com/ohr-ds)
@@ -25,5 +23,3 @@ classes: wide
 ### 🛠 기술
 - Python, PySpark, SQL, Databricks, Azure
 - 추천 시스템, 이상 탐지, 모델 서빙
-
-</div>
