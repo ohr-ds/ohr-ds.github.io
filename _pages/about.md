@@ -10,7 +10,6 @@ classes: narrow page-cv
 .page-cv {
   font-size: 14px;
   line-height: 1.7;
-  font-family: 'KoPubWorld', sans-serif;
 }
 
 .page-cv h1, 
