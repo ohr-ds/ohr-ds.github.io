@@ -3,8 +3,29 @@ title: "About"
 permalink: /about/
 layout: single
 author_profile: true
-classes: narrow
+classes: narrow page-cv
 ---
+
+<style>
+.page-cv {
+  font-size: 14px;
+  line-height: 1.7;
+  font-family: 'KoPubWorld', sans-serif;
+}
+
+.page-cv h1, 
+.page-cv h2, 
+.page-cv h3, 
+.page-cv h4 {
+  font-size: 16px;
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+.page-cv li {
+  margin-bottom: 4px;
+}
+</style>
 <img src="/assets/images/profile.jpg" width="150" style="float:right; margin-left:20px; border-radius:10px;" />
 ### 오흥록 (Heungrok Oh)
 Data Scientist(Since 2017)  
